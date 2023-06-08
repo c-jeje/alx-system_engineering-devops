@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwxrw-r-- tmp/h/hello
+chmod -rwxrw-r-- tmp/h/hello \n
